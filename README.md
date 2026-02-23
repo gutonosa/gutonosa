@@ -1,12 +1,21 @@
-- 👋 Hi, I’m @gutonosa
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi there, I'm Guton Osa
 
-<!---
-gutonosa/gutonosa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About This Repository
+
+This repository consolidates my research and academic projects into a single place.
+
+## Projects
+
+### [Awesome_SFT-RLVR_Mechanism](./Awesome_SFT-RLVR_Mechanism)
+
+A curated and regularly updated paper list on the **roles and mechanisms of SFT (Supervised Fine-Tuning) and RL (Reinforcement Learning)** in LLM reasoning training. Covers topics including:
+
+- Comparison of mechanisms between RLVR and SFT
+- The entropy mechanism in RLVR
+- GRPO in RLVR: flaws and corrections
+- Exploration-exploitation optimization in GRPO
+- Hybrid SFT-RL training
+
+### [Academic-Homepage](./Academic-Homepage)
+
+A personal academic portfolio website built with Jekyll and GitHub Pages. Contains publication records, talks, teaching materials, and other academic information.
